@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img src ="/Users/HP/Downloads/qr-code-component-main" alt="alt text" style="max-width: 100%;">
+![screenshot](https://user-images.githubusercontent.com/111097676/191373273-04a4d695-885d-40c1-bb30-d6991c6a7365.png)
 
 
 ### Built with
